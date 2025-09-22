@@ -1,4 +1,4 @@
-## Initial custom theme, identical to theme_minimal()
+## Create custom theme
 theme_zach <- function(base_size = 11, base_family = "sans") {
   
   ## Create custom color palette for ggplot
