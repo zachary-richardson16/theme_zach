@@ -40,7 +40,7 @@ theme_zach <- function(base_size = 11, base_family = "sans") {
         ## Axes
         # Title
         axis.title = element_text(
-          size = rel(1.1), face = "bold"
+          size = rel(1.0), face = "bold"
         ),
         
         # Tick-text
