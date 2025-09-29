@@ -45,7 +45,7 @@ theme_zach <- function(base_size = 11, base_family = "sans") {
         
         # Tick-text
         axis.text = element_text(
-          size = rel(1.0)
+          size = rel(0.9)
         ),
         
         # Axis lines
